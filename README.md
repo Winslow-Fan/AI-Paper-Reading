@@ -11,5 +11,7 @@ This repository is the notes of reading literature in several domains.
 - Category: NLP
 </details>
 
+## Reference
+Most of the images in the note were from the paper so they were not referred seperately. Some auxiliary images from other sources will be cited and noted.
 
 
